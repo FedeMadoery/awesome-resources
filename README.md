@@ -19,6 +19,7 @@ Awesome Resources is a list of different resources that help the development or 
 
 ## Deploy
 * [Zeir Now](https://zeit.co/now) / **Now** is a Serverless Deployment Platform
+* [Netlify](https://www.netlify.com/) / **Netlify** An all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS.
 
 ## Storage
 *
