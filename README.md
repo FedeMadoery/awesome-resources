@@ -11,6 +11,7 @@ Awesome Resources is a list of different resources that help the development or 
     - [Boilerplate](#boilerplates)
     - [Tutorials](#tutorials)
     - [Books](#books)
+    - [Others](#others)
   
   
 ## Utilities
@@ -35,3 +36,6 @@ Awesome Resources is a list of different resources that help the development or 
 
 ## Books
 *
+
+## Others
+* [Frinkiac](https://frinkiac.com/) / The Simpsons Search Engine - Create Memes and GIFs.
