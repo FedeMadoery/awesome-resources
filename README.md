@@ -26,7 +26,7 @@ Awesome Resources is a list of different resources that help the development or 
 *
 
 ## Frameworks
-* [React Native Paper](https://callstack.github.io/react-native-paper/) / **Paper** is a collection of customizable and production-ready components for React Native, following Google’s Material Design guidelines.
+* [Paper](https://callstack.github.io/react-native-paper/) / **Paper** is a collection of customizable and production-ready components for React Native, following Google’s Material Design guidelines.
 
 ## Boilerplate
 *
