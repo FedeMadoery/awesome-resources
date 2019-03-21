@@ -30,7 +30,7 @@ Awesome Resources is a list of different resources that help the development or 
 *
 
 ## Projects
-* [Zube](https://zube.io) / **Zube.io**/ Agile project management tool like waffle.io
+* [Zube](https://zube.io) / **Zube.io** Agile project management tool like waffle.io
 
 ## Boilerplate
 *
