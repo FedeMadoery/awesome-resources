@@ -8,7 +8,8 @@ Awesome Resources is a list of different resources that help the development or 
     - [Deploy](#deploy)
     - [Storage](#storage)
     - [Frameworks](#frameworks)
-    - [Boilerplate](#boilerplates)
+    - [Project Management](#project management)
+    - [Boilerplate](#boilerplate)
     - [Tutorials](#tutorials)
     - [Books](#books)
     - [Others](#others)
@@ -27,6 +28,9 @@ Awesome Resources is a list of different resources that help the development or 
 
 ## Frameworks
 * [Paper](https://callstack.github.io/react-native-paper/) / **Paper** is a collection of customizable and production-ready components for React Native, following Google’s Material Design guidelines.
+
+## Project Management
+* [Zube](https://zube.io) / **Zube.io** Agile project management tool like waffle.io
 
 ## Boilerplate
 *
