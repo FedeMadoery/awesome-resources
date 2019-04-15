@@ -42,5 +42,8 @@ Awesome Resources is a list of different resources that help the development or 
 ## Books
 *
 
+## Tools
+* [Majestic](https://github.com/Raathigesh/majestic/) /**Majestic** is an open source project for testing with JEST
+
 ## Others
 * [Frinkiac](https://frinkiac.com/) / The Simpsons Search Engine - Create Memes and GIFs.
