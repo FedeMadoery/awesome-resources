@@ -8,7 +8,7 @@ Awesome Resources is a list of different resources that help the development or 
     - [Deploy](#deploy)
     - [Storage](#storage)
     - [Frameworks](#frameworks)
-    - [Project Management](#project management)
+    - [Project Management](#management)
     - [Boilerplate](#boilerplate)
     - [Tutorials](#tutorials)
     - [Books](#books)
@@ -29,7 +29,7 @@ Awesome Resources is a list of different resources that help the development or 
 ## Frameworks
 * [Paper](https://callstack.github.io/react-native-paper/) / **Paper** is a collection of customizable and production-ready components for React Native, following Google’s Material Design guidelines.
 
-## Project Management
+## Management
 * [Zube](https://zube.io) / **Zube.io** Agile project management tool like waffle.io
 
 ## Boilerplate
@@ -37,6 +37,7 @@ Awesome Resources is a list of different resources that help the development or 
 
 ## Tutorials
 * [Crypto Zombies](https://cryptozombies.io/en/course) / **CryptoZombies** is a free, open source, interactive code school to teach Solidity
+* [ReactHooks GlobalState](https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8) / The idea is to create an array of listeners and only one state object.o
 
 ## Books
 *
