@@ -18,6 +18,7 @@ Awesome Resources is a list of different resources that help the development or 
 ## Utilities
 * [Integromat](https://www.integromat.com/en/) / **Integromat** is a online automation platform.
 * [Unsplash](https://unsplash.com/developers) / **Unsplash** is a completely free photo engine with a JSON AP to provide images.
+* [Scikit-Learn](https://scikit-learn.org/stable/) / **Scikit-Learn** (Recommended for Machine Learning in Python) is a simple and efficient tools for data mining and data analysis
 
 ## Deploy
 * [Zeir Now](https://zeit.co/now) / **Now** is a Serverless Deployment Platform
