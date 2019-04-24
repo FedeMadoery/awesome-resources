@@ -38,7 +38,8 @@ Awesome Resources is a list of different resources that help the development or 
 
 ## Tutorials
 * [Crypto Zombies](https://cryptozombies.io/en/course) / **CryptoZombies** is a free, open source, interactive code school to teach Solidity
-* [ReactHooks GlobalState](https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8) / The idea is to create an array of listeners and only one state object.o
+* [ReactHooks How to use them](https://medium.com/@rossbulat/how-to-use-react-higher-order-components-c0be6821eb6c) / Article about Utilise React HOCs for class and functional components
+* [ReactHooks GlobalState](https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8) / The idea is to create an array of listeners and only one state object.
 
 ## Books
 *
