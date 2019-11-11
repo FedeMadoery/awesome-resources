@@ -49,6 +49,7 @@ Awesome Resources is a list of different resources that help the development or 
 
 ## Tools :flashlight:
 * [Majestic](https://github.com/Raathigesh/majestic/) /**Majestic** is an open source project for testing with JEST
+* [Storybook](https://storybook.js.org/) / **Storybook** is an open source tool for developing UI components in isolation for React, Vue, and Angular.
 
 ## Others :christmas_tree:
 * [Frinkiac](https://frinkiac.com/) / The Simpsons Search Engine - Create Memes and GIFs.
