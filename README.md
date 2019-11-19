@@ -53,3 +53,4 @@ Awesome Resources is a list of different resources that help the development or 
 
 ## Others :christmas_tree:
 * [Frinkiac](https://frinkiac.com/) / The Simpsons Search Engine - Create Memes and GIFs.
+* [Idiomatic.js](https://github.com/rwaldron/idiomatic.js) / Principles of Writing Consistent, Idiomatic JavaScript
