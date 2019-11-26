@@ -39,7 +39,7 @@ Awesome Resources is a list of different resources that help the development or 
 
 ## Tutorials :notebook_with_decorative_cover:
 * [Crypto Zombies](https://cryptozombies.io/en/course) / **CryptoZombies** is a free, open source, interactive code school to teach Solidity
-* [ReactHooks How to use them](https://medium.com/@rossbulat/how-to-use-react-higher-order-components-c0be6821eb6c) / Article about Utilise React HOCs for class and functional components
+* [ReactHOC How to use them](https://medium.com/@rossbulat/how-to-use-react-higher-order-components-c0be6821eb6c) / Article about Utilise React HOCs for class and functional components
 * [ReactHooks GlobalState](https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8) / The idea is to create an array of listeners and only one state object.
 * [FasterRCNN Explained](https://medium.com/@smallfishbigsea/faster-r-cnn-explained-864d4fb7e3f8) / Faster R-CNN Explained
 * [FasterRCNN Tutorial](https://github.com/jaspereb/FasterRCNNTutorial) / A Faster R-CNN Tutorial in Tensorflow for beginners at object detection. Includes a very small dataset and screen recordings of the entire process.
