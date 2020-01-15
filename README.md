@@ -25,7 +25,8 @@ Awesome Resources is a list of different resources that help the development or 
 ## Deploy :electric_plug:
 * [Zeir Now](https://zeit.co/now) / **Now** is a Serverless Deployment Platform
 * [Netlify](https://www.netlify.com/) / **Netlify** An all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS.
-* [Hotjar:fire:](https://www.hotjar.com) / *Hotjar*:fire: is a powerful tool that reveals the online behavior
+* [Hotjar:fire:](https://www.hotjar.com) / **Hotjar**:fire: is a powerful tool that reveals the online behavior
+* [React-intl](https://github.com/formatjs/react-intl) / **react-intl** provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
 ## Storage :floppy_disk:
 *
 
