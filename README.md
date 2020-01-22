@@ -32,7 +32,7 @@ Awesome Resources is a list of different resources that help the development or 
 
 ## Frameworks :art:
 * [Paper](https://callstack.github.io/react-native-paper/) / **Paper** is a collection of customizable and production-ready components for React Native, following Google’s Material Design guidelines.
-
+* [Tina CMS](https://tinacms.org/) - Tina is an open-source site editing toolkit for React-based frameworks — Gatsby & Next.js
 ## Management :clipboard:
 * [Zube](https://zube.io) / **Zube.io** Agile project management tool like waffle.io
 
