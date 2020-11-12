@@ -22,6 +22,8 @@ Awesome Resources is a list of different resources that help the development or 
 * [Scikit-Learn](https://scikit-learn.org/stable/) / **Scikit-Learn** (Recommended for Machine Learning in Python) is a simple and efficient tools for data mining and data analysis
 * [Places-Autocomplete](https://github.com/hibiken/react-places-autocomplete) / A React component to build a customized UI for Google Maps Places Autocomplete
 * [Nebula](https://github.com/slackhq/nebula) / **Nebula** Nebula is a scalable overlay networking tool with a focus on performance, simplicity and security.
+* [patch-package](https://github.com/ds300/patch-package) / **patch-package** lets app authors instantly make and keep fixes to npm dependencies. It's a vital band-aid for those of us living on the bleeding edge.
+
 ## Deploy :electric_plug:
 * [Zeir Now](https://zeit.co/now) / **Now** is a Serverless Deployment Platform
 * [Netlify](https://www.netlify.com/) / **Netlify** An all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS.
