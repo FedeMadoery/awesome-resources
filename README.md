@@ -55,6 +55,7 @@ Awesome Resources is a list of different resources that help the development or 
 * [Majestic](https://github.com/Raathigesh/majestic/) /**Majestic** is an open source project for testing with JEST
 * [Storybook](https://storybook.js.org/) / **Storybook** is an open source tool for developing UI components in isolation for React, Vue, and Angular.
 * [useHooks](https://github.com/gragland/usehooks) / **useHooks** Easy to understand React Hook recipes
+* [Jotai](https://github.com/pmndrs/jotai) / **Jotai** is a state management library for React.
 
 ## Others :christmas_tree:
 * [Frinkiac](https://frinkiac.com/) / The Simpsons Search Engine - Create Memes and GIFs.
