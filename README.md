@@ -56,6 +56,7 @@ Awesome Resources is a list of different resources that help the development or 
 * [Storybook](https://storybook.js.org/) / **Storybook** is an open source tool for developing UI components in isolation for React, Vue, and Angular.
 * [useHooks](https://github.com/gragland/usehooks) / **useHooks** Easy to understand React Hook recipes
 * [Jotai](https://github.com/pmndrs/jotai) / **Jotai** is a state management library for React.
+* [SWR](https://swr.vercel.app/) / **SWR** React Hooks library for data fetching
 
 ## Others :christmas_tree:
 * [Frinkiac](https://frinkiac.com/) / The Simpsons Search Engine - Create Memes and GIFs.
