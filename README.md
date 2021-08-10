@@ -29,17 +29,20 @@ Awesome Resources is a list of different resources that help the development or 
 * [Netlify](https://www.netlify.com/) / **Netlify** An all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS.
 * [Hotjar:fire:](https://www.hotjar.com) / **Hotjar**:fire: is a powerful tool that reveals the online behavior
 * [React-intl](https://github.com/formatjs/react-intl) / **react-intl** provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
+* [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) / **Lighthouse CI** Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
+
 ## Storage :floppy_disk:
-*
+* [Upstash](https://upstash.com/) / **Upstash** Serverless Database for Redis
 
 ## Frameworks :art:
 * [Paper](https://callstack.github.io/react-native-paper/) / **Paper** is a collection of customizable and production-ready components for React Native, following Google’s Material Design guidelines.
 * [Tina CMS](https://tinacms.org/) - Tina is an open-source site editing toolkit for React-based frameworks — Gatsby & Next.js
 ## Management :clipboard:
 * [Zube](https://zube.io) / **Zube.io** Agile project management tool like waffle.io
+* [Tailwindcss](https://tailwindcss.com/) / **Tailwindcss** A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.
 
 ## Boilerplate :gem:
-*
+* [Serverless + Typescript ](https://github.com/FedeMadoery/serverles-nodejs-typescript) / Serverless + Typescript + AWS Ready to go
 
 ## Tutorials :notebook_with_decorative_cover:
 * [Crypto Zombies](https://cryptozombies.io/en/course) / **CryptoZombies** is a free, open source, interactive code school to teach Solidity
