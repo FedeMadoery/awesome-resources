@@ -43,6 +43,7 @@ Awesome Resources is a list of different resources that help the development or 
 
 ## Boilerplate :gem:
 * [Serverless + Typescript ](https://github.com/FedeMadoery/serverles-nodejs-typescript) / Serverless + Typescript + AWS Ready to go
+* [Zerp](https://github.com/commitdev/zero) / Zero - Zero sets up everything you need so you can immediately start building your product. (AWS + Node/Go + React )
 
 ## Tutorials :notebook_with_decorative_cover:
 * [Crypto Zombies](https://cryptozombies.io/en/course) / **CryptoZombies** is a free, open source, interactive code school to teach Solidity
