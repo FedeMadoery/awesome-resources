@@ -23,6 +23,7 @@ Awesome Resources is a list of different resources that help the development or 
 * [Places-Autocomplete](https://github.com/hibiken/react-places-autocomplete) / A React component to build a customized UI for Google Maps Places Autocomplete
 * [Nebula](https://github.com/slackhq/nebula) / **Nebula** Nebula is a scalable overlay networking tool with a focus on performance, simplicity and security.
 * [patch-package](https://github.com/ds300/patch-package) / **patch-package** lets app authors instantly make and keep fixes to npm dependencies. It's a vital band-aid for those of us living on the bleeding edge.
+* [Emojipedia](https://emojipedia.org/) / **Emojipedia**  is an emoji reference website which documents the meaning and common usage of emoji characters in the Unicode Standard.
 
 ## Deploy :electric_plug:
 * [Zeir Now](https://zeit.co/now) / **Now** is a Serverless Deployment Platform
